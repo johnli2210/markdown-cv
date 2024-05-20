@@ -1,91 +1,98 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: John Li's CV
 ---
-# JOHN Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# John Li
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Solutions Architect, Data Scientist
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Experienced Solutions Architect with 10 years’ experience in client-facing data science and technical consulting roles. Currently Head of Solutions Architecture for Microsoft Ads Australia with responsibilities including pre-sales consulting, solution architecture, program management, and remote team management. 
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Career highlights include globally-recognised solutions for international and local clients, designing and building apps and scripts to support new and emerging technologies in the Adtech space. I also have a track record of driving strategic brand decisions through approaches to data analytics and presenting insights to Directors at multi-national brands. I enjoy simplifying complex data and complex sytems.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2013`
+**MSc Forensic Psychology, University of Liverpool, UK**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2007-2010`
+**BSc Experimental Psychology, University of Bristol, UK**
 
 
+## Experience
 
-## Awards
+`2017-present`
+__Solutions Architect, Microsoft/Xandr/AppNexus, Sydney, Australia__
+
+Individual contributor responsible for delivering bespoke solutions and integations, including an Order Management system used by global tier 1 streaming service. This Python/Flask/API tool allowed us to replace 12 full-time contractors worldwide.
+
+Leading team of four consultants in Australia, overseeing custom solution architecture and service delivery supporting the APAC region. Our team delivered cornerstone projects that support over 60% of current AUNZ revenue.
+
+Local hackathon owner, running annual data science, API and app development hackathons. We designed and built usable tools, developed technical skills (Python, SQL, REST APIs), and facilitated peer-to-peer mentorship opportunities.
+
+
+
+`2017`
+**Data Scientist, Mediacom Business Science, Sydney, Australia**
+
+Designed and built a custom ETL and insights pipeline in Python and R, taking raw order data and automating customer segmentation.
+
+Delivered 10% Campaign sales performance using insights presented to customer Heads of marketing
+
+`2015-2016`
+**Senior Analytics Manager, Xaxis, London, UK**
+
+Migrated internal reporting processes from Excel to Datorama, 
+
+Developed automation (R, Python) delivering over 20 analyst hours per week
+
+Led multi-market, multi-stakeholder projects including the launch of a new segmentation product, using market research data and data-driven effectiveness studies.
+
+
+`2013-2015`
+**Technical Account Manager, PubSquared, London UK**
+
+Technical account management for media buyers covering $100K/month. 
+
+Product support and ticketing.
 
 `2012`
-President, *Royal Society*, London, UK
+**Guitar teacher, Long Lake camp for the arts, New York**
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Teaching guitar.
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Key skills
 
-- Warden
-- Minted coins
+### Data Analysis	
+Excel, SQL/Hive, R, PowerBI, Datorama
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Web Technologies	
+Javascript, HTML, CherryPy, Flask, REST, AWS, Jenkins
+
+### Programming	languages
+Linux, Python, PHP, GIT, GO
+
+
+## Interests
+
+Rock climbing, music, literature
+
+
+
+
+## References
+
+Philip Coetzee, AppNexus/Xandr/Microsoft (Principal Solutions Consultant)
+Philip.coetzee@xandr.com
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
